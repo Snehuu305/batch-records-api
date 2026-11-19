@@ -1,4 +1,4 @@
-package com.marvellous.MarvellousPortal.Entity;
+package com.marvellous.MarvellousPortal.entity;
 
 import jakarta.validation.constraints.NotBlank;
 import jakarta.validation.constraints.Positive;
