@@ -1,6 +1,6 @@
 package com.marvellous.MarvellousPortal.controller;
 
-import com.marvellous.MarvellousPortal.Entity.BatchEntry;
+import com.marvellous.MarvellousPortal.entity.BatchEntry;
 import com.marvellous.MarvellousPortal.service.BatchEntryService;
 import org.bson.types.ObjectId;
 import org.springframework.beans.factory.annotation.Autowired;
