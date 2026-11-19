@@ -1,8 +1,8 @@
 package com.marvellous.MarvellousPortal.service;
 
 import com.marvellous.MarvellousPortal.exception.BatchNotFoundException;
-import com.marvellous.MarvellousPortal.Entity.BatchEntry;
-import com.marvellous.MarvellousPortal.Repository.BatchEntryRepository;
+import com.marvellous.MarvellousPortal.entity.BatchEntry;
+import com.marvellous.MarvellousPortal.repository.BatchEntryRepository;
 import org.bson.types.ObjectId;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;
