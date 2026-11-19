@@ -1,6 +1,6 @@
-package com.marvellous.MarvellousPortal.Repository;
+package com.marvellous.MarvellousPortal.repository;
 
-import com.marvellous.MarvellousPortal.Entity.BatchEntry;
+import com.marvellous.MarvellousPortal.entity.BatchEntry;
 import org.springframework.data.mongodb.repository.MongoRepository;
 
 public interface BatchEntryRepository extends MongoRepository<BatchEntry, String>
